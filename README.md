@@ -37,8 +37,11 @@ crime_data.json - https://drive.google.com/file/d/1Mn2GfznyOwsKebYN6tAxPME1SNEgJ
 
 ### Processed Data Files over 100MB
 crime_data_processed.json - https://drive.google.com/file/d/1klXS8BBNg6o6Qj5aOrCLJTgCtstAQcIN/view?usp=drive_link
+
 combined_crime_csa_data_processed.geojson - https://drive.google.com/file/d/1Umi2ap5M5QhIFAWypI35UyTecrGHRM9r/view?usp=drive_link
+
 combined_crime_districts_data_processed.geojson - https://drive.google.com/file/d/1QeCeODReMFBmCtpPhgY7kfc2Zp35D8_G/view?usp=drive_link
+
 combined_crime_spa_data_processed.geojson - https://drive.google.com/file/d/1o5aQZW3lSMlRnNXklZtIHDpFDfX8A9os/view?usp=drive_link
 
 ## Instructions to create a conda environment
