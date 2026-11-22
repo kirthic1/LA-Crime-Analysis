@@ -1,0 +1,12 @@
+requests
+pandas
+geopandas
+seaborn
+matplotlib
+prettytable
+flake8
+ipykernel
+jupyterlab
+flake8-nb
+black
+python-dotenv
